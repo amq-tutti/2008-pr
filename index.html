@@ -1,0 +1,111 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="og:site_name" content="2008 Songs PR">
+    <meta name="og:description" content="Party rank sorter for nominated anime songs from 2008">
+    <title>2008 Songs PR</title>
+
+    <link rel="stylesheet" type="text/css" href="src/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="src/css/styles.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
+    <script src="src/js/data.js"></script>
+    <script src="src/js/data//2025-02-02/2025-02-02.js" type="module"></script>
+
+    <script src="src/js/html2canvas.min.js"></script>
+    <script src="src/js/lz-string.min.js"></script>
+    <script src="src/js/seedrandom.min.js"></script>
+    <script src="src/js/main.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <div class="progress">
+            <span class="progressbattle"></span>
+            <div class="progressbar">
+                <div class="progressfill"><span class="progresstext"></span></div>
+            </div>
+        </div>
+
+        <div class="sorter">
+            <div class="media-toggle middle">
+                <span id="mediaTypeLabel">Video</span>
+                <label class="switch">
+                    <input type="checkbox" id="mediaToggle">
+                    <span class="slider round"></span>
+                </label>
+                <span id="mediaTypeLabel">Audio</span>
+            </div>
+
+            <div class="middle">
+                <div class="starting start button">DONT FORGET TO CHECK INS/OP/ED<br><br>Click to Start!</div>
+                <div class="starting load button">LOAD <span></span></div>
+
+            </div>
+
+            <div class="sorting left" style="display: none">
+                <iframe width="500" height="345" src="" class="left sort iframe" style="display: none"></iframe>
+                <video width="500" height="345" class="left sort video" controls style="display: none"></video>
+                <div class="left sort text">
+                    <p></p>
+                </div>
+            </div>
+
+            <div class="sorting middle">
+                <div class="sorting middle inner" style="display: none">
+                    <div class="sorting tie button">No Tie</div>
+                    <div class="sorting undo button">Undo</div>
+                    <div class="sorting save button">Save Progress</div>
+                </div>
+            </div>
+
+            <div style="display: none" class="sorting middle finished">
+                <div class="finished save button">Generate Result URL</div>
+                <div class="finished list button">Generate Text List</div>
+                <div class="finished list button three">Generate Text List By ID</div>
+            </div>
+
+            <div class="sorting right" style="display: none">
+                <iframe width="500" height="345" src="" class="right sort iframe" style="display: none"></iframe>
+                <video width="500" height="345" class="right sort video" controls style="display: none"></video>
+                <div class="right sort text">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+
+        
+
+        <div class="options"></div>
+        <div class="time taken"></div>
+        <div class="results"></div>
+
+        <div class="info">
+            <br>
+
+            <br>
+            <a class="clearsave">Clear Save Data</a>
+
+            <br><br>
+            <p>Sorter characters. Pick your sources, and hit the Start button.</p>
+            <p><strong>Certain options have details that you can hover to read.</strong></p>
+            <p>Click on the character you like better from the two.</p>
+            <br><br>
+
+            <p>Literally a clone of charasort, I take no credits and may be buggy cuz iframes. If preview doesnt update,
+                save progress and reload may work? Not a frontend person :)) Picture links directly to creator.</p>
+            <br>
+            <p>Keyboard controls during sorting: H/LeftArrow (pick left) J/DownArrow (undo) L/RightArrow
+                (pick right) S (save progress).</p>
+            <p>Before sorting: S/Enter (start sorting) L (load progress).
+            <p>2/3 always correspond to the second/third buttons.</p>
+
+            <br><br>
+            <a href="https://github.com/execfera/charasort/">Clone of charasort</a>
+        </div>
+    </div>
+</body>
+
+</html>
