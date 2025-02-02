@@ -1,6 +1,6 @@
 export const songs = [
     {
-        id: "1",
+        id: "01",
         name: 'Amatsuki - "Namae no Nai Michi" by Kaori Hikita',
         videoId: "https://naedist.animemusicquiz.com/0rdpka.webm",
         audioId: "https://naedist.animemusicquiz.com/wtkkcl.mp3",
@@ -10,7 +10,7 @@ export const songs = [
         }
     },
     {
-        id: "2",
+        id: "02",
         name: 'Aria the Origination - "Kin no Nami Sen no Nami" by Akino Arai',
         videoId: "https://naedist.animemusicquiz.com/kk2pae.webm",
         audioId: "https://naedist.animemusicquiz.com/6lsawq.mp3",
@@ -20,7 +20,7 @@ export const songs = [
         }
     },
     {
-        id: "3",
+        id: "03",
         name: 'Blassreiter - "sweet lies" by Kanako Itou',
         videoId: "https://naedist.animemusicquiz.com/hj5kl0.webm",
         audioId: "https://naedist.animemusicquiz.com/tg3oxj.mp3",
@@ -30,7 +30,7 @@ export const songs = [
         }
     },
     {
-        id: "4",
+        id: "04",
         name: 'Bleach - "Hitohira no Hanabira" by Stereopony',
         videoId: "https://naedist.animemusicquiz.com/nsggho.webm",
         audioId: "https://naedist.animemusicquiz.com/yoeejf.mp3",
@@ -40,7 +40,7 @@ export const songs = [
         }
     },
     {
-        id: "5",
+        id: "05",
         name: 'Bounen no Xamdou - "SHUT UP AND EXPLODE" by BOOM BOOM SATELLITES',
         videoId: "https://naedist.animemusicquiz.com/fmoggv.webm",
         audioId: "https://naedist.animemusicquiz.com/pem1oh.mp3",
@@ -50,7 +50,7 @@ export const songs = [
         }
     },
     {
-        id: "6",
+        id: "06",
         name: 'Casshern Sins - "Aoi Hana" by Color Bottle',
         videoId: "https://naedist.animemusicquiz.com/nekl68.webm",
         audioId: "https://naedist.animemusicquiz.com/rknzr7.mp3",
@@ -60,7 +60,7 @@ export const songs = [
         }
     },
     {
-        id: "7",
+        id: "07",
         name: 'ChäoS;HEAd - "Super Special" by Seira Kagami',
         videoId: "https://naedist.animemusicquiz.com/5s3m91.webm",
         audioId: "https://naedist.animemusicquiz.com/0n7mb7.mp3",
@@ -70,7 +70,7 @@ export const songs = [
         }
     },
     {
-        id: "8",
+        id: "08",
         name: 'Clannad: After Story - "Toki wo Kizamu Uta" by Lia',
         videoId: "https://naedist.animemusicquiz.com/1dhitq.webm",
         audioId: "https://naedist.animemusicquiz.com/689oww.mp3",
@@ -80,7 +80,7 @@ export const songs = [
         }
     },
     {
-        id: "9",
+        id: "09",
         name: 'Code Geass: Lelouch of the Rebellion R2 - "WORLD END" by FLOW',
         videoId: "https://naedist.animemusicquiz.com/b9b56l.webm",
         audioId: "https://naedist.animemusicquiz.com/rsn4df.mp3",
