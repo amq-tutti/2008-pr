@@ -384,7 +384,7 @@ function getVideoSource(char, isLeft) {
             // Use audioId if in audio mode and it's available, otherwise use videoId
             const mediaSource = isVideoMode ? char.videoId : (char.audioId || char.videoId);
             video.src = mediaSource;
-            video.style.height = isVideoMode ? 'auto' : '36px'; // Reduce height in audio mode
+            video.style.height = isVideoMode ? '280px' : '36px'; // Reduce height in audio mode
             break;
         default:
             alert('Missing video source for ' + char.name);
