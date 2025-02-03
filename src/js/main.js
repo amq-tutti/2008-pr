@@ -323,9 +323,9 @@ function display() {
     const rightChar = characterDataToSort[rightCharIndex];
 
     const charNameDisp = name => {
-        const charName = name; // reduceTextWidth(name, 'Arial 12.8px', 370);
-        const charTooltip = name;
-        return `<p title="${charTooltip} style="text-align: center;">${charName}</p>`;
+        const charName = name;
+        const charTooltip = name.replaceAll('\"', '&quot;');
+        return `<p title="${charTooltip}" style="text-align: center;">${charName}</p>`;
     };
 
     progressBar(`Battle No. ${battleNo}`, percent);
@@ -577,8 +577,8 @@ function result(imageNum = 0) {
     const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Do another sorter?</a>`;
 
     const res = (char, num) => {
-        const charName = reduceTextWidth(char.name, 'Arial 12px', 160);
-        const charTooltip = char.name; //char.name !== charName ? char.name : '';
+        const charName = reduceTextWidth(char.name, 'Arial 12px', 250);
+        const charTooltip = char.name.replaceAll('\"', '&quot;');
         return `<div class="result"><div class="left">${num}</div><div class="right"><span title="${charTooltip}">${charName}</span></div></div>`;
     }
 
