@@ -6,7 +6,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/wtkkcl.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -16,7 +16,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/6lsawq.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -26,7 +26,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/tg3oxj.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -36,7 +36,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/yoeejf.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -46,7 +46,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/pem1oh.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -56,7 +56,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/rknzr7.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -66,7 +66,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/0n7mb7.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -76,7 +76,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/689oww.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -86,7 +86,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/rsn4df.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -96,7 +96,7 @@ export const songs = [
         audioId: "https://eudist.animemusicquiz.com/v4gucn.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -106,7 +106,7 @@ export const songs = [
         audioId: "https://eudist.animemusicquiz.com/c1x7zl.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -116,7 +116,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/nh69y7.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -126,7 +126,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/1nb7pn.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -136,7 +136,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/o8lhq0.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -146,7 +146,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/qar3n6.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -156,7 +156,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ye40ln.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -166,7 +166,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/g3icxs.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -176,7 +176,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ycmnwv.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -186,7 +186,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/kld5os.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -196,7 +196,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/c24o75.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -206,7 +206,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/z18z73.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -216,7 +216,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/6z1tnx.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -226,7 +226,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/z3hrve.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -236,7 +236,7 @@ export const songs = [
         audioId: "https://nawdist.animemusicquiz.com/g5thkh.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -246,7 +246,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/6qd3ws.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -256,7 +256,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/qkh3y4.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -266,7 +266,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/i119eo.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -276,7 +276,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/icjnmu.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -286,7 +286,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/tryne0.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -296,7 +296,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ipjv8o.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -306,7 +306,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/os0l0o.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -316,7 +316,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/vhly7y.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -326,7 +326,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/jsiwzg.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -336,7 +336,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ca5q2r.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -346,7 +346,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/e3ryyn.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -356,7 +356,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/1s2qgv.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -366,7 +366,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/7z2qgm.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -376,7 +376,7 @@ export const songs = [
         audioId: "https://eudist.animemusicquiz.com/xkddv7.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -386,7 +386,7 @@ export const songs = [
         audioId: "https://nawdist.animemusicquiz.com/bx9ktb.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -396,7 +396,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/kr3wre.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -406,7 +406,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/aizubz.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -416,7 +416,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/5fzn3o.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -426,7 +426,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ncayla.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -436,7 +436,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/7n7ncs.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -446,7 +446,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/uyioek.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -456,7 +456,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/wig9el.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -466,7 +466,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/ykcfry.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -476,7 +476,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/uqk11t.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -486,7 +486,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/1kmdzi.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -496,7 +496,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/fxqvtr.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -506,7 +506,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/mnb2u8.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -516,7 +516,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/4rptzh.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -526,7 +526,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/jyi2wg.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -536,7 +536,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/pcp185.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -546,7 +546,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/csz22e.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -556,7 +556,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/1hgos3.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -566,7 +566,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/6me5z6.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["INS"]
+            songType: ["INS"]
         }
     },
     {
@@ -576,7 +576,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/tp8o5k.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -586,7 +586,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/v44vws.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -596,7 +596,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/nasenk.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     },
     {
@@ -606,7 +606,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/yyf5u0.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -616,7 +616,7 @@ export const songs = [
         audioId: "https://eudist.animemusicquiz.com/73ij6t.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -626,7 +626,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/qgswwx.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["ED"]
+            songType: ["ED"]
         }
     },
     {
@@ -636,7 +636,7 @@ export const songs = [
         audioId: "https://naedist.animemusicquiz.com/gf02qz.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
-            singer: ["OP"]
+            songType: ["OP"]
         }
     }
 ];

@@ -6,7 +6,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].options = [
     {
         name: "Filter by type of songs",
-        key: "singer",
+        key: "songType",
         tooltip: "Check this to show songs",
         checked: true,
         sub: [
