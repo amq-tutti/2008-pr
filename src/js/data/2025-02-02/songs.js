@@ -502,8 +502,8 @@ export const songs = [
     {
         id: "51",
         name: 'Shakugan no Shana II (Second) - "sense" by Mami Kawada',
-        videoId: "https://naedist.animemusicquiz.com/2vap8v.webm",
-        audioId: "https://naedist.animemusicquiz.com/mnb2u8.mp3",
+        videoId: "https://naedist.animemusicquiz.com/4atbp9.webm",
+        audioId: "https://naedist.animemusicquiz.com/adguqi.mp3",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
             songType: ["ED"]
